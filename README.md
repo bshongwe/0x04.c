@@ -1,3 +1,9 @@
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/0x04.c)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/0x04.c)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/0x04.c)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/0x04.c)
+![GitHub License](https://img.shields.io/github/license/bshongwe/0x04.c)
+
 # Don't hate the hacker, hate the code
 
 Create a program that generates random valid passwords for the program 101-crackme.
